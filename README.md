@@ -1,0 +1,1 @@
+# InfoHub Project - Next.js full-stack app
