@@ -15,11 +15,10 @@ It brings together **three practical utilities** into one simple, responsive app
 - Search any city and instantly get:
   - Temperature (°C)
   - Wind Speed (km/h)
-- Powered by the **Open-Meteo API** (no API key needed).
 
 ### 2. Currency Conversion
 - Convert INR to **USD** or **EUR**
-- Real-time exchange rates using **open.er-api.com**
+- Real-time exchange rates.
 - Error handling for invalid or missing inputs.
 
 ### 3. Motivational Quotes
